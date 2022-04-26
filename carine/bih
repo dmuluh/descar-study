@@ -1,0 +1,14 @@
+#!/bin/bash
+author :desmond
+
+
+arch
+echo
+echo
+cat /etc/passwd
+echo 
+echo
+cat /etc/*release
+echo 
+echo
+yum update -y
